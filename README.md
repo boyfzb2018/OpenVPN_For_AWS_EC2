@@ -1,0 +1,2 @@
+# OpenVPN_For_AWS_EC2
+在AWS EC2 Ubuntu实例上安装OpenVPN支持ClientVPN访问
