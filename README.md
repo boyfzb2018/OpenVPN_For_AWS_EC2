@@ -49,8 +49,8 @@
 
 9. **管理OpenVPN用户**  
    如果需要添加新用户、撤销现有用户或删除OpenVPN服务器，只需再次运行安装脚本，并根据提示操作：
-   ![09a756c5196cde35652e00a6915b1281.png](evernotecid://70080B4B-F41E-411F-9995-002FEADD95AB/appyinxiangcom/20675139/ENResource/p3808)
-   
+![1F1BC458-C521-4920-84AE-5B79C3E310AC](https://github.com/user-attachments/assets/f8830fe0-5ec7-41f0-9f6a-b7e800b93609)
+  
    ```bash
    sudo bash openvpn-install.sh
    ```
