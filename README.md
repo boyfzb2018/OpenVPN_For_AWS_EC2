@@ -19,7 +19,7 @@
 
 
 4. **运行安装脚本**  
-   执行安装脚本，并根据提示配置OpenVPN服务器。注意：在第一个问题中，输入EC2实例的公共IP。  
+   执行安装脚本，并根据提示配置OpenVPN服务器。注意：在第一个问题中，EC2实例的IP选项修改为公共IP，VPN Client Name后的PEM Passphase选择2，输入密码，其余选项全用默认值。  
    ```bash
    sudo bash openvpn-install.sh
    ```
